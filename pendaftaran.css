@@ -1,0 +1,44 @@
+.header-menu {
+    background-color: green;
+    color: white;
+    padding: 12px;
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: justify;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 300px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+    background-color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.button1 {
+    background-color: green; 
+    color: white;
+    float: left;
+    margin-top: 20px;
+}
+
+.button2 {
+    background-color: green; 
+    color: white;
+    display: flex;
+    float: right;
+    margin-top: 20px;
+}
+
