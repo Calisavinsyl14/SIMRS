@@ -23,7 +23,11 @@
     text-decoration: none;
 }
 
-.header-menu .menu .active {
+.header-menu .menu .active1 {
+    color: red;
+}
+
+.header-menu .menu .active2 {
     color: black;
 }
 
